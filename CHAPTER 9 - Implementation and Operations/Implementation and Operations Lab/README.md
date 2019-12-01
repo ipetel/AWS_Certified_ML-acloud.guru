@@ -1,4 +1,4 @@
-# EImplementation and Operations Lab
+# Implementation and Operations Lab
 Notice that this Lab is part C of <a href="https://github.com/ipetel/AWS_Certified_ML-acloud.guru/tree/master/CHAPTER%207%20-%20Algorithms/Algorithms%20Lab">Algorithms Lab</a>
 
 **Use Case**
